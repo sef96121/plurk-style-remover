@@ -1,4 +1,4 @@
-# 噗浪佈景清除 Plurk style Remove 
+# 噗浪佈景清除 Plurk style Remover 
 這是用來自動移除噗浪佈景的竄改猴腳本  
 A Tampermonkey user script to automatically remove Plurk's custom styles.
 
